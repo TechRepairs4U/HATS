@@ -18,3 +18,4 @@ HATS.22.1.0.MM+FW.zip = Full HATS with firmware update (22.1.0) only needed if y
 
 HATS.22.1.0.Minimalistic.zip = Full HATS with no themes (official looking)
 
+https://buymeacoffee.com/techrepairs4u
