@@ -11,7 +11,7 @@ HATS.MM.zip = Full HATS without firmware update
 
 
 
-HATS.MM+FW.zip = Full HATS with firmware update (22.5.0) only needed if your on old system firmware.
+HATS.MM+FW.zip = Full HATS with firmware update (23.0.0) only needed if your on old system firmware.
 
 
 
